@@ -13,6 +13,3 @@ def process_batch(payments):
 
 def GetUserBalance(userId):
     return 100
-
-def get_first_payment(payments):
-    return payments[0]
